@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<USElection>
+  <Candidates>
+    <Democrat>Clinton</Democrat>
+    <Republican>Trump</Republican>
+  </Candidates>
+  <States>
+    <State name="ALABAMA" code="AL" ECVotes="9" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="ALASKA" code="AK" ECVotes="3" TimeZone="9" allowsVoteSplitting="False"></State>
+    <State name="ARIZONA" code="AZ" ECVotes="11" TimeZone="6" allowsVoteSplitting="False"></State>
+    <State name="ARKANSAS" code="AR" ECVotes="6" TimeZone="5" allowsVoteSplitting="False"></State>
+    <State name="CALIFORNIA" code="CA" ECVotes="55" TimeZone="8" allowsVoteSplitting="False"></State>
+    <State name="COLORADO" code="CO" ECVotes="9" TimeZone="6" allowsVoteSplitting="False"></State>
+    <State name="CONNECTICUT" code="CT" ECVotes="7" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="DELAWARE" code="DE" ECVotes="3" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="DISTRICT OF COLUMBIA" code="DC" ECVotes="3" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="FLORIDA" code="FL" ECVotes="29" TimeZone="2" allowsVoteSplitting="False"></State>
+    <State name="GEORGIA" code="GA" ECVotes="16" TimeZone="2" allowsVoteSplitting="False"></State>
+    <State name="HAWAII" code="HI" ECVotes="4" TimeZone="8" allowsVoteSplitting="False"></State>
+    <State name="IDAHO" code="ID" ECVotes="4" TimeZone="7" allowsVoteSplitting="False"></State>
+    <State name="ILLINOIS" code="IL" ECVotes="20" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="INDIANA" code="IN" ECVotes="11" TimeZone="1" allowsVoteSplitting="False"></State>
+    <State name="IOWA" code="IA" ECVotes="6" TimeZone="7" allowsVoteSplitting="False"></State>
+    <State name="KANSAS" code="KS" ECVotes="6" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="KENTUCKY" code="KY" ECVotes="8" TimeZone="1" allowsVoteSplitting="False"></State>
+    <State name="LOUISIANA" code="LA" ECVotes="8" TimeZone="6" allowsVoteSplitting="False"></State>
+    <State name="MAINE" code="ME" ECVotes="4" TimeZone="4" allowsVoteSplitting="True"></State>
+    <State name="MARYLAND" code="MD" ECVotes="10" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="MASSACHUSETTS" code="MA" ECVotes="11" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="MICHIGAN" code="MI" ECVotes="16" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="MINNESOTA" code="MN" ECVotes="10" TimeZone="6" allowsVoteSplitting="False"></State>
+    <State name="MISSISSIPPI" code="MS" ECVotes="6" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="MISSOURI" code="MO" ECVotes="10" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="MONTANA" code="MT" ECVotes="3" TimeZone="7" allowsVoteSplitting="False"></State>
+    <State name="NEBRASKA" code="NE" ECVotes="5" TimeZone="6" allowsVoteSplitting="True"></State>
+    <State name="NEVADA" code="NV" ECVotes="6" TimeZone="7" allowsVoteSplitting="False"></State>
+    <State name="NEW HAMPSHIRE" code="NH" ECVotes="4" TimeZone="2" allowsVoteSplitting="False"></State>
+    <State name="NEW JERSEY" code="NJ" ECVotes="14" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="NEW MEXICO" code="NM" ECVotes="5" TimeZone="6" allowsVoteSplitting="False"></State>
+    <State name="NEW YORK" code="NY" ECVotes="29" TimeZone="6" allowsVoteSplitting="False"></State>
+    <State name="NORTH CAROLINA" code="NC" ECVotes="15" TimeZone="3" allowsVoteSplitting="False"></State>
+    <State name="NORTH DAKOTA" code="ND" ECVotes="3" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="OHIO" code="OH" ECVotes="18" TimeZone="3" allowsVoteSplitting="False"></State>
+    <State name="OKLAHOMA" code="OK" ECVotes="7" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="OREGON" code="OR" ECVotes="7" TimeZone="7" allowsVoteSplitting="False"></State>
+    <State name="PENNSYLVANIA" code="PA" ECVotes="20" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="RHODE ISLAND" code="RI" ECVotes="4" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="SOUTH CAROLINA" code="SC" ECVotes="9" TimeZone="2" allowsVoteSplitting="False"></State>
+    <State name="SOUTH DAKOTA" code="SD" ECVotes="3" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="TENNESSEE" code="TN" ECVotes="11" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="TEXAS" code="TX" ECVotes="38" TimeZone="4" allowsVoteSplitting="False"></State>
+    <State name="UTAH" code="UT" ECVotes="6" TimeZone="7" allowsVoteSplitting="False"></State>
+    <State name="VERMONT" code="VT" ECVotes="3" TimeZone="2" allowsVoteSplitting="False"></State>
+    <State name="VIRGINIA" code="VA" ECVotes="13" TimeZone="2" allowsVoteSplitting="False"></State>
+    <State name="WASHINGTON" code="WA" ECVotes="12" TimeZone="8" allowsVoteSplitting="False"></State>
+    <State name="WEST VIRGINIA" code="WV" ECVotes="5" TimeZone="3" allowsVoteSplitting="False"></State>
+    <State name="WISCONSIN" code="WI" ECVotes="10" TimeZone="6" allowsVoteSplitting="False"></State>
+    <State name="WYOMING" code="WY" ECVotes="3" TimeZone="6" allowsVoteSplitting="False"></State>
+  </States>
+  <Senate>
+    <Party partyCode="DEM" Hold="34"></Party>
+    <Party partyCode="GOP" Hold="30"></Party>
+    <Party partyCode="OTH" Hold="2"></Party>
+  </Senate>
+  <IPConfigs>
+    <IPConfig name="ETV Channel A" IPAddress="10.153.178.111" Port="6100"></IPConfig>
+    <IPConfig name="ETV Channel B" IPAddress="10.153.178.111" Port="6800"></IPConfig>
+    <IPConfig name="TVF Viz04" IPAddress="10.169.178.204" Port="6800"></IPConfig>
+    <IPConfig name="TVF Viz04" IPAddress="10.169.178.204" Port="6900"></IPConfig>
+    <IPConfig name="TVF Viz05" IPAddress="10.169.178.205" Port="6800"></IPConfig>
+    <IPConfig name="TVF Viz05" IPAddress="10.169.178.205" Port="6900"></IPConfig>
+    <IPConfig name="Dev Full Screen" IPAddress="10.151.195.40" Port="6100"></IPConfig>
+    <IPConfig name="Dev Lower Third" IPAddress="10.151.195.40" Port="6100"></IPConfig>
+    <IPConfig name="Dev(SR) Instance" IPAddress="10.176.129.119" Port="6100"></IPConfig>
+    <IPConfig name="Nathan Full Screen" IPAddress="10.153.178.201" Port="6100"></IPConfig>
+    <IPConfig name="Nathan Lower Third" IPAddress="10.153.178.201" Port="6100"></IPConfig>
+  </IPConfigs>
+  <VIZConfig>
+    <Scene>SPECIALS/ELECTIONS/AMERICA_VOTES/default</Scene>
+    <SceneFR>/RADIO-CANADA/PROJETS_SPECIAUX/Elections_USA_2016/ONLINE/ONLINE</SceneFR>
+  </VIZConfig>
+  <MiniMessage>
+    <add Message="CBC NEWS PROJECTS CLINTON VICTORY"/>
+    <add Message="CBC NEWS PROJECTS TRUMP VICTORY"/>
+    <add Message="HILLARY CLINTON IS PRESIDENT-ELECT"/>
+    <add Message="DONALD TRUMP IS PRESIDENT-ELECT"/>
+  </MiniMessage>
+  <Canopy>
+    <BaseAddress>http://104.196.112.50</BaseAddress>
+    <FullResultsEndPoint>/live/us_election/full/all</FullResultsEndPoint>
+    <TopLevelResultsEndPoint>/live/us_election/toplevel</TopLevelResultsEndPoint>
+    <PostElectEndPoint>/live/us_election/post/cbcwinner/byslug/sk398Fgjhjk34hAS9dj31</PostElectEndPoint>
+    <JSONExportFile>C:\USData2016\USStateWins.json</JSONExportFile>
+    <JSONImportFile>X:\USData2016\USStateWins.json</JSONImportFile>
+  </Canopy>
+</USElection>
